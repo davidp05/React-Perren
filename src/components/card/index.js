@@ -1,5 +1,5 @@
 import React from 'react'
-import { useCard } from '../../../hooks/useCard'
+import { useCard } from '../../hooks/useCard'
 import Imagen from '../../assets/images/smartwatch.jpg'
 import "./styles.css"
 
